@@ -1,0 +1,7 @@
+seq 0 time 0.035321
+seq 1 time 0.097561
+seq 1 time 0.097854
+seq 1441 time 0.098037
+seq 2881 time 0.098095
+seq 4321 time 0.098151
+download pkt_cnt: 6 reorder_cnt: 0 reorder_rate 0.000000
